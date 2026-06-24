@@ -47,4 +47,4 @@ while True:
         print("Exiting To-Do App...")
         break
     else:
-        print("Invalid choice")
+        print("Invalid choice") # if the user enters an invalid option, it will prompt them to enter a valid choice
